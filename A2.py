@@ -12,6 +12,8 @@ elif  mood == "bad":
     print("I am sorry to hear that, hope things get better for you soon.")
 elif mood == "ok": 
     print("I see, hope that it becomes good later on in your life.")
+else: 
+    print("I see. Sometimes it's hard to put feelings into words.")
 
 time.sleep(1)
 
